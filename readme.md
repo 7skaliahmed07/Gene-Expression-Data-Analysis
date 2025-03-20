@@ -1,7 +1,7 @@
 -- Gene Expression and Anthropometric Data Analysis
 
 ---- Overview
-This repository contains the solution for Assignment C, which involves merging and analyzing gene expression and anthropometric data from multiple labs. The goal is to combine inconsistent datasets, study BMI distribution across populations, and explore BMI's relationship with gene expression.
+This repository contains the solution for Gene Expression, which involves merging and analyzing gene expression and anthropometric data from multiple labs. The goal is to combine inconsistent datasets, study BMI distribution across populations, and explore BMI's relationship with gene expression.
 
 
 ---- Requirements
@@ -12,7 +12,7 @@ This repository contains the solution for Assignment C, which involves merging a
 ---- Running the Code
 1. Clone this repository: `git clone <repository-url>`
 2. Place the raw data files (`NL.csv`, `PL.csv`, `UK.csv`, `US.csv`, `genes.csv`) in the `data/` directory.
-3. Open the notebook: `cd assignment_c && jupyter notebook assignment_C.ipynb`
+3. Open the notebook: `cd analysis && jupyter notebook analysis.ipynb`
 4. Run all cells to execute the analysis.
 
 ---- Steps
@@ -32,6 +32,3 @@ This repository contains the solution for Assignment C, which involves merging a
 - Plots: BMI distribution, BMI vs GeneA scatterplot.
 - Console: Summary statistics and correlations.
 
----- Notes
-- Data files are not included due to size/privacy; replace with your own `assignment_C_data.zip`.
-- Adjust paths if directory structure changes.

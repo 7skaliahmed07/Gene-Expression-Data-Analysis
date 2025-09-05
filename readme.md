@@ -10,7 +10,7 @@ This repository contains the solution for Gene Expression, which involves mergin
 - Install via: `pip install pandas numpy matplotlib seaborn jupyter`
 
 ---- Running the Code
-1. Clone this repository: `git clone <repository-url>`
+1. Clone this repository: `git clone [<repository-url>](https://github.com/7skaliahmed07/Gene-Expression-Data-Analysis)`
 2. Place the raw data files (`NL.csv`, `PL.csv`, `UK.csv`, `US.csv`, `genes.csv`) in the `data/` directory.
 3. Open the notebook: `cd analysis && jupyter notebook analysis.ipynb`
 4. Run all cells to execute the analysis.
